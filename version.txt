@@ -1,2 +1,2 @@
-1.10
-https://github.com/mbiinventra-specsana/mbi-scanner-updates/releases/download/v1.10/MBI_Update.exe
+1.11
+https://github.com/mbiinventra-specsana/mbi-scanner-updates/releases/download/v1.11/MBI_Update.exe
